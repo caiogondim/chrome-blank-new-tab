@@ -2,7 +2,7 @@
 
 Dark blank new tab extension for Chrome.
 
-<img src="https://raw.github.com/caiogondim/chrome-blank-new-tab/example.png" />
+<img src="https://raw.github.com/caiogondim/chrome-blank-new-tab/master/example.png" />
 
 ## Instalation
 
