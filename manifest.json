@@ -1,9 +1,11 @@
 {
+  "manifest_version": 3,
   "name": "Blank New Tab",
-  "version": "0.0.1",
-  "manifest_version": 2,
   "description": "Blank page on new tab.",
-  "homepage_url": "https://caiogondim.com",
+  "version": "0.0.1",
+  "action": {
+    "default_icon": "favicon.png"
+  },
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   }
