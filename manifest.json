@@ -2,8 +2,11 @@
   "manifest_version": 3,
   "name": "Blank New Tab",
   "description": "Blank page on new tab.",
-  "version": "1.0",
+  "version": "0.0.1",
   "action": {
     "default_icon": "favicon.png"
+  },
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
   }
 }
