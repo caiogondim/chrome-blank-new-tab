@@ -1,12 +1,16 @@
 # chrome-blank-new-tab
 
-Dark blank new tab extension for Chrome.
+Blank new tab extension for Chrome with dark and light themes.
 
-<img src="https://raw.github.com/caiogondim/chrome-blank-new-tab/master/example.png" />
+<img src="https://raw.github.com/aldosch/chrome-blank-new-tab/master/example.png" />
 
-## Instalation
+## Installation
 
-1. Download the repo
-2. Open Chrome
-3. Menu > Window > Extension
-4. Load unpacked
+1. Clone this repository
+```bash
+git clone https://github.com/aldosch/chrome-blank-new-tab.git
+```
+2. Navigate to `chrome://extensions/` in your browser
+3. Enable `Developer mode`
+4. Click `Load unpacked`
+5. Select the `chrome-blank-new-tab` folder
